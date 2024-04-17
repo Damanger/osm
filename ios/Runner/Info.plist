@@ -3,10 +3,8 @@
 <plist version="1.0">
 <dict>
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>Se necesita acceso a tu ubicación para mostrar el mapa.</string>
-    <key>NSLocationAlwaysUsageDescription</key>
-    <string>Se necesita acceso a tu ubicación para mostrar el mapa.</string>
-	<key>CFBundleDevelopmentRegion</key>
+    <string>Esta aplicación necesita acceso a la ubicación cuando está abierta.</string>
+    <key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Osm</string>
